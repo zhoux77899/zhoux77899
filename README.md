@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 I’m currently working on
+- LLM
+- CV
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhoux77899)
+
+## 📫 How to reach me
+- X: [@miyoshichi](https://x.com/miyoshichi)
