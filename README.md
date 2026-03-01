@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - CV
 
 ## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhoux77899&show_icons=true&theme=rose_pine&rank_icon=github)](https://github.com/zhoux77899)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zhoux77899&show_icons=true&theme=rose_pine&rank_icon=github)](https://github.com/zhoux77899)
 
 ## ⌨️ Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoux77899&theme=rose_pine&layout=compact&exclude_repo=Miyoshichi.github.io)](https://github.com/zhoux77899)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zhoux77899&theme=rose_pine&layout=compact&exclude_repo=Miyoshichi.github.io)](https://github.com/zhoux77899)
 
 ## 📫 How to reach me
 - X: [@miyoshichi](https://x.com/miyoshichi)
